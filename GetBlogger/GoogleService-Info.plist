@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>582010318254-j86m30h2pvphriko919a8992b0k5setb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.582010318254-j86m30h2pvphriko919a8992b0k5setb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9X8WrcEvNLgKTw4tBuqG4G4xRZcfyXj0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>582010318254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.agaltsov.GetBlogger</string>
+	<key>PROJECT_ID</key>
+	<string>getblogger-6ce99</string>
+	<key>STORAGE_BUCKET</key>
+	<string>getblogger-6ce99.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:582010318254:ios:89474b472ece4e90f62c3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://getblogger-6ce99.firebaseio.com</string>
+</dict>
+</plist>

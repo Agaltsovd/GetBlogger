@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "macifiqa_profile_pic.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
