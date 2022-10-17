@@ -1,6 +1,6 @@
 # GetBlogger
 
-GetBlogger is A Marketplace for Social Media Influencers and Advertisers
+GetBlogger is A Marketplace for Social Media Content Creators and Advertisers
 
 Uses Swift, Xcode, Firebase, Figma, Facebook API
 
